@@ -722,6 +722,7 @@ function hljs_settings_page() {
                     <li><label><input type="checkbox" name="dsconfig.js" /> dsconfig</label></li>
                     <li><label><input type="checkbox" name="jboss-cli.js" /> jboss-cli</label></li>
                     <li><label><input type="checkbox" name="pf.js" /> pf</label></li>
+                    <li><label><input type="checkbox" name="pico8.js" /> PICO-8</label></li>
                 </ul>
                 <div style="clear: both;"></div>
               </div>
